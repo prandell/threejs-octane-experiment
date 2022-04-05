@@ -1,5 +1,5 @@
 # Three.js Octane Experiment
-This is a simple project where I am trying to recreate my own Rocket League car in Three.js
+This is a simple project where I have used THREE.js to replicate my Rocket League Octane model.
 
 ## General Information
 
@@ -25,7 +25,9 @@ This is simple javascript, html and webpack
 
 ## Setup
 
-Please be aware the setup to build and run this website differs respective to each operating system (OS). Furthermore, I'm also assuming that you already have [NodeJS](https://nodejs.org/en/) and [React](https://reactjs.org) already installed or available within your environment.
+Please be aware the setup to build and run this website differs respective to each operating system (OS). Furthermore, I'm also assuming that you already have [NodeJS](https://nodejs.org/en/) already installed or available within your environment.
+
+To experiment with the Octane Model, uncomment all the Debug Console comments, and use the sliders to alter the Camera, Lights, and Octane Colours.
 
 ### Run
 
@@ -33,7 +35,7 @@ Please be aware the setup to build and run this website differs respective to ea
 npm install
 npm run dev
 ```
-This will then launch the application within the native web browser on your computer.
+This will then launch the application within the native web browser on your computer, and you will see Octane spinning
 
 ### Build
 
