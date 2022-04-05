@@ -5,10 +5,17 @@ This is a simple project where I have used THREE.js to replicate my Rocket Leagu
 
 This is simple javascript, html and webpack
 
+## Screen Recording
+
+Screen Recording of the webpage when running
+
+![alt-text](https://github.com/prandell/threejs-octane-experiment/blob/main/screenshots/screen-recording.gif)
+
 ## Table of Contents
 
 - [Typescript React App](#three.js-octane-experiment)
   - [General Information](#general-information)
+  - [Screen Recording](#screen-recording)
   - [Table of Contents](#table-of-contents)
   - [Technology Used](#technology-used)
   - [Setup](#setup)
