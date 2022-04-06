@@ -9,7 +9,7 @@ This is simple javascript, html and webpack
 
 Screen Recording of the webpage when running
 
-![alt-text](https://github.com/prandell/threejs-octane-experiment/blob/master/screenshots/screen-recording.gif)
+![alt-text](https://github.com/prandell/threejs-octane-experiment/blob/master/screenshots/screen-recording-shadow.gif)
 
 ## Table of Contents
 
