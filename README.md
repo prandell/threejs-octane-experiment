@@ -1,4 +1,5 @@
 # Three.js Octane Experiment
+
 This is a simple project where I have used THREE.js to replicate my Rocket League Octane model.
 
 ## General Information
@@ -13,7 +14,7 @@ Screen Recording of the webpage when running
 
 ## Table of Contents
 
-- [Typescript React App](#three.js-octane-experiment)
+- [Three.Js Octane Experiment](#three.js-octane-experiment)
   - [General Information](#general-information)
   - [Screen Recording](#screen-recording)
   - [Table of Contents](#table-of-contents)
@@ -42,6 +43,7 @@ To experiment with the Octane Model, uncomment all the Debug Console comments, a
 npm install
 npm run dev
 ```
+
 This will then launch the application within the native web browser on your computer, and you will see Octane spinning
 
 ### Build
